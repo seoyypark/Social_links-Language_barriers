@@ -40,10 +40,9 @@ The dataset (`dataset.csv`) contains the following columns:
 - **NewSimilarity**: Refined similarity score with language usage proportion.
 - **fb_sci**: [Facebook Social Connected Index Score](https://dataforgood.facebook.com/dfg/tools/social-connectedness-index)
 - **Spotify**: Number of shared songs in charts. You can find data at [Spotify Charts](https://charts.spotify.com/home).
-- **Netflix Film**: Number of shared Netflix film. You can find data at [Netflix Tudum](https://www.netflix.com/tudum/top10)
-- **Netflix TV**: Netflix TV show view counts. You can find data at [Netflix Tudum](https://www.netflix.com/tudum/top10)
+- **Netflix Film**: Number of shared Netflix film. You can find data at [Netflix Tudum](https://www.netflix.com/tudum/top10).
+- **Netflix TV**: Netflix TV show view counts. You can find data at [Netflix Tudum](https://www.netflix.com/tudum/top10).
 
----
 ---
 
 ## Citation
