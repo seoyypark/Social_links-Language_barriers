@@ -49,6 +49,14 @@ The dataset (`dataset.csv`) contains the following columns:
 
 If you use this repository or its contents in your research, please cite the following paper:
 
-> **"Decoding the Global Spread of Streaming Content: Social Links vs. Language Barriers"**  
-> Available at: [https://arxiv.org/abs/2402.19329](https://arxiv.org/abs/2402.19329)
-
+```bibtex
+@article{park2025social,
+  title={Social links vs. language barriers: decoding the global spread of streaming content},
+  author={Park, Seoyoung and Park, Sanghyeok and You, Taekho and Yun, Jinhyuk},
+  journal={Humanities and Social Sciences Communications},
+  volume={12},
+  number={1},
+  pages={1--10},
+  year={2025},
+  publisher={Palgrave}
+}
